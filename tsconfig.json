@@ -1,7 +1,7 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
-    "baseUrl": "./",
+    "baseUrl": "https://github.com/Janusred/bruttII.git ",
     "outDir": "./dist/index.html",
     "sourceMap": true,
     "declaration": false,
