@@ -1,8 +1,8 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
-    "baseUrl": "./",
-    "outDir": "./dist/out-tsc",
+    "baseUrl": "https://github.com/Janusred/bruttII.git ",
+    "outDir": "./dist/index.html",
     "sourceMap": true,
     "declaration": false,
     "moduleResolution": "node",
